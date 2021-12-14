@@ -7,8 +7,8 @@
             <div class="w-full md:grid-cols-2 lg:col-span-4 pb-48 pt-20" >
                 <div class="max-w-7xl mx-auto  px-4 sm:px-6 lg:py-36 lg:px-8 lg:flex lg:items-center lg:justify-between w-full md:grid-cols-2 lg:col-span-4">
                     <h2 class=" font-weight-bolder tracking-widest text-black sm:text-4xl">
-                        <span class="block pb-5" style="font-size:3.75rem;">Expande tus límites</span>
-                        <span class="block text-red-600 text-3xl">Regístrate y accede a nuestros cursos gratuitos.</span>
+                        <span class="block pb-5 text-red-600" style="font-size:3.75rem;">Expande tus límites</span>
+                        <span class="block text-black text-3xl">Regístrate y accede a nuestros cursos gratuitos.</span>
                     </h2>
                     <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
                         <div class="inline-flex rounded-md">
