@@ -11,12 +11,7 @@
             </li>
         @endforeach
     </ul>
-    <div class="container mx-auto">
-        <x-alert color="red">
 
-        </x-alert>
-        <x-alert/>
-    </div>
 
-    {{$cursos->links();}}
+    {{$cursos->links()}}
 @endsection

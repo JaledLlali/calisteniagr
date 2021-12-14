@@ -21,9 +21,6 @@
     <title>@yield('title')</title>
 </head>
 <body>
-
-    @include('layouts.partials.header')
-
     @yield('content')
 
 

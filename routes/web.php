@@ -21,7 +21,7 @@ Route::get('locale/{locale}', function ($locale){
 
 Route::get('/', HomeController::class)->name('home');
 
-Route::resource('cursos', CursoController::class);
+Route::middleware(['auth:sanctum', 'verified'])->resource('cursos', CursoController::class);
 
 Route::view('about', 'about')->name('about');
 
