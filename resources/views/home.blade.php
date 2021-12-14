@@ -3,7 +3,7 @@
     @extends('layouts.plantilla')
     @section('title', 'Home')
 
-        <section class="bg-cover" style=" background-image: url({{asset('img/home/street-workout-2628904_1920.jpg')}})">
+        <section class="bg-cover home-background">
             <div class="w-full md:grid-cols-2 lg:col-span-4 pb-48 pt-20" >
                 <div class="max-w-7xl mx-auto  px-4 sm:px-6 lg:py-36 lg:px-8 lg:flex lg:items-center lg:justify-between w-full md:grid-cols-2 lg:col-span-4">
                     <h2 class=" font-weight-bolder tracking-widest text-black sm:text-4xl">

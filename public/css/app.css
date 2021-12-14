@@ -1540,20 +1540,14 @@ select {
 .pt-8 {
   padding-top: 2rem;
 }
-.pb-5 {
-  padding-bottom: 1.25rem;
-}
-.pb-40 {
-  padding-bottom: 10rem;
+.pb-48 {
+  padding-bottom: 12rem;
 }
 .pt-20 {
   padding-top: 5rem;
 }
-.pb-44 {
-  padding-bottom: 11rem;
-}
-.pb-48 {
-  padding-bottom: 12rem;
+.pb-5 {
+  padding-bottom: 1.25rem;
 }
 .text-left {
   text-align: left;

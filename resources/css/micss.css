@@ -1,0 +1,13 @@
+
+
+/*Para el home*/
+@media screen and (max-width: 480px) {
+    .home-background {
+        background-image: url("{{asset('img/home/street-workout-ge66ad7c91_1920.jpg')}}");
+    }
+}
+@media screen and (min-width: 480px) {
+    .home-background {
+        background-image: url('{{asset('img/home/street-workout-2628904_1920.jpg')}}');
+    }
+}
