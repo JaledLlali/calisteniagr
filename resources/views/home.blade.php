@@ -60,17 +60,6 @@
                     </div>
                 </div>
                 @endforeach
-                {{--<div class="lg:w-1/4 p-4 w-1/2">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="curso" class="object-cover object-center w-full h-full block" src="{{asset('img/home/depositphotos_85006254-stock-photo-young-man-exercising-on-parallel.jpg')}}">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Equilibrio</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">Handstand</h2>
-                        <p class="mt-1 line-through">$21.15</p>
-                        <p class="mt-1 text-red-600">$Free</p>
-                    </div>
-                </div>--}}
 
             </div>
             <div class="flex justify-center mt-2">

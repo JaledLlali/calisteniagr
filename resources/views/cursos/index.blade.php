@@ -1,6 +1,8 @@
+
 @extends('layouts.plantilla')
 @section('title', 'Cursos')
-
+@extends('layouts.partials.header')
+@section('header')
 @section('content')
     <h3 class="text-3xl font-bold underline">Página principal de cursos</h3>
     <a href="{{route('cursos.create')}}">Crear curso</a>
@@ -15,3 +17,4 @@
 
     {{$cursos->links()}}
 @endsection
+

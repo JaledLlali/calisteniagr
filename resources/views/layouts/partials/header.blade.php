@@ -1,3 +1,4 @@
+@yield('header')
 <header>
     <nav>
         <ul>
